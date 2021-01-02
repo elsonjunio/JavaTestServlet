@@ -24,7 +24,7 @@ Teste de Servlet
 Arquivo utilizado pelo Maven para gerar a imagem com a aplicação
 
 ##### pom.xml
-Contém as configuraçães para compilar o app, é usado pelo Mavem para realizar o build
+Contém as configuraçãoes para compilar o app, é usado pelo Maven para realizar o build
 
 ##### DemoServlet.java
 Esse servlet foi utilizado como modelo para criação das demais, pois foi utilizado InteliJ Idea CE, que não suporta Java EE
@@ -33,7 +33,7 @@ Esse servlet foi utilizado como modelo para criação das demais, pois foi utili
 Esse servlet abre um formulário simples que está no *form-message.jsp*
 
 ##### ProcessDataFormServlet.java
-Esse servlet recebe os dados do formulário no *form-message.jsp* e os envia para *show-email.jsp*, neste ponto poderia ser empregado uso de banco de dados, mas esse projeto não será utilizado percistência.
+Esse servlet recebe os dados do formulário no *form-message.jsp* e os envia para *show-email.jsp*, neste ponto poderia ser empregado uso de banco de dados, mas nesse projeto foi utilizado persistência de dados.
 
 ##### web.xml
 Arquivo de configuração dos servlets, porem neste projeto não foi utilizado
