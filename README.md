@@ -1,7 +1,6 @@
 # JavaTestServlet
 Este projeto tem o intuito de exemplificar o uso de Java Servlet. Também foi utilizado o plugin dockerfile-maven-plugin, que facilita a criação de imagens Docker.
 Este projeto foi uma forma de fixar conhecimento e gerar material para consulta.
- 
 
 ```
 .
