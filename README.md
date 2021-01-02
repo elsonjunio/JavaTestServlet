@@ -23,7 +23,7 @@ Este projeto foi uma forma de fixar conhecimento e gerar material para consulta.
 ```
 
 ##### Dockerfile
-Arquivo utilizado pelo Maven para gerar a imagem docker com a aplicação
+Arquivo utilizado pelo Maven para gerar a imagem Docker com a aplicação
 
 ##### pom.xml
 Contém as configuraçãoes para compilar o app, é usado pelo Maven para realizar o build
@@ -53,7 +53,7 @@ $mvn package
 Isso faz gerar o arquivo JavaTesteServlet/target/JavaTestServlet.war
 
 ##### Docker
-O projeto usa o plugin dockerfile-maven-plugin, que facilita a criação da imagem docker, para criar a imagem:
+O projeto usa o plugin dockerfile-maven-plugin, que facilita a criação da imagem Docker, para criar a imagem:
 ```
 $mvn dockerfile:build
 ```
