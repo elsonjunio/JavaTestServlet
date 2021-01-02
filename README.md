@@ -21,7 +21,7 @@ Teste de Servlet
 ```
 
 ##### Dockerfile
-Arquivo utilizado pelo Maven para gerar a imagem com a aplicação
+Arquivo utilizado pelo Maven para gerar a imagem docker com a aplicação
 
 ##### pom.xml
 Contém as configuraçãoes para compilar o app, é usado pelo Maven para realizar o build
